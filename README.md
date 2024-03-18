@@ -1,1 +1,1 @@
-# Sample project creating pipelines with gitHub Actions
+# Sample project creating pipelines with GitHub Actions
